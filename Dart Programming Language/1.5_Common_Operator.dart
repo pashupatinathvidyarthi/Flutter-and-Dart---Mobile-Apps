@@ -26,4 +26,6 @@ void main()
   print(x!=y);
 
   print(x>y && y<x);
+
+  print(x>y || y>x);
 }
