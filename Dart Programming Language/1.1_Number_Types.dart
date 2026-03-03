@@ -1,5 +1,8 @@
 void main()
 {
   int age=30;
-  print(age); 
+  double pi=3.14159;
+  print(age);
+  print(age.isEven);
+  print(pi);
 }
