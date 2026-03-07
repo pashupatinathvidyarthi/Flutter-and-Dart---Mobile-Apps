@@ -14,7 +14,7 @@ void main()
   print(div);
   print(remainder);
 
-  final result=y ~/ x; // '~' is used to convert dloat value to integer
+  final result=y ~/ x; // '~' is used to convert float value to integer
   print(result);
 
 
