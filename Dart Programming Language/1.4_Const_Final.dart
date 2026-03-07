@@ -4,9 +4,11 @@ void main()
   //pi=3455.677 //Through an error
 
   final List<int> numbers=[10,20,30];
+  print(numbers);
 
   //numbers=[]; Through an error
 
   final List<int>number=[10,20,30];
+  print(number);
 
 }
