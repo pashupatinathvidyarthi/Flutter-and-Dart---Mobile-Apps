@@ -1,5 +1,4 @@
-vo*
-/875in()
+void main()
 {
   List<int> marks=[];
   print(marks.isEmpty);
