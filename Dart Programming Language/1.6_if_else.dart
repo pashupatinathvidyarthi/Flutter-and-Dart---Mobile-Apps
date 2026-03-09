@@ -15,7 +15,7 @@ void main()
  {
   print("Cold");
  }
- else if(temp>=19 && temp<=18)
+ else if(temp>=19 && temp<=24)
  {
   print("Normal");
  }
